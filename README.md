@@ -2,4 +2,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-kykt35.vercel.app/api?username=kykt35&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kykt35)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kykt35&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)

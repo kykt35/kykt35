@@ -2,6 +2,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-kykt35.vercel.app/api?username=kykt35&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kykt35)
 
